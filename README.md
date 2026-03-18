@@ -21,7 +21,7 @@
 
 **Чем конкретно занимаюсь:**
 
-- 🤖 Строю мульти-агентные AI-системы с RAG, файн-тюнингом и векторными базами — звучит страшно, работает магически
+- ⚙️ Строю мульти-агентные AI-системы с RAG, файн-тюнингом и векторными базами — звучит страшно, работает магически
 - 🛒 Автоматизирую e-commerce на Wildberries и Ozon (продавцы перестают ненавидеть понедельники)
 - 💸 Сделал [НеОтдам](https://neotdam.io) — AI-платформу, которая находит деньги, которые маркетплейс «забыл» вернуть продавцу
 - 📣 Участвую в разработке [AIMarketos](https://aimarketos.com) — маркетинговая ОС, которая заменяет команду из 5–7 человек (они не знают)
@@ -40,7 +40,7 @@ I build **AI agents that don't get tired**, **n8n workflows that don't complain*
 
 **What I actually do:**
 
-- 🤖 Multi-agent AI systems with RAG, fine-tuning and vector DBs — sounds scary, works like magic
+- ⚙️ Multi-agent AI systems with RAG, fine-tuning and vector DBs — sounds scary, works like magic
 - 🛒 E-commerce automation for Wildberries & Ozon (sellers stop hating Mondays)
 - 💸 Built [НеОтдам](https://neotdam.io) — AI platform that finds money the marketplace conveniently "forgot" to return
 - 📣 Co-developing [AIMarketos](https://aimarketos.com) — a marketing OS replacing a 5–7 person team (they don't know yet)
@@ -70,12 +70,12 @@ I build **AI agents that don't get tired**, **n8n workflows that don't complain*
 > *Лучшая документация — это когда ты видишь как оно работает*  
 > *The best documentation is watching it work*
 
-- 🧠 [Telegram AI-агент с RAG на Qdrant](https://youtu.be/geKvA7-MRl8) — умный бот, который реально знает ответы
-- 💳 [Telegram-бот с оплатой ЮKassa](https://youtu.be/REirtAG22_U) — деньги сами приходят, представляешь
-- ✍️ [Контент-завод: AI SEO-статьи](https://youtu.be/f6kPTAGiCL8) — блог пишет себя сам
-- 🛍️ [Нейро-продавец для Wildberries](https://youtu.be/k9CeGYtDvHM) — консультант, который не уходит на обед
-- 🤖 [Мульти-агент AI для Битрикс24](https://youtu.be/YJHMZiXyM0A) — AI-оркестр вместо колл-центра
-- 🤖 [AI-клон себя с RAG + fine-tuning GPT-4](https://youtu.be/7oDXXBYKKps) — теперь нас двое, и один не устаёт
+- ⚡ [Telegram AI-агент с RAG на Qdrant](https://youtu.be/geKvA7-MRl8) — умный бот, который реально знает ответы
+- 💰 [Telegram-бот с оплатой ЮKassa](https://youtu.be/REirtAG22_U) — деньги сами приходят, представляешь
+- 📝 [Контент-завод: AI SEO-статьи](https://youtu.be/f6kPTAGiCL8) — блог пишет себя сам
+- 🛒 [Нейро-продавец для Wildberries](https://youtu.be/k9CeGYtDvHM) — консультант, который не уходит на обед
+- 🔧 [Мульти-агент AI для Битрикс24](https://youtu.be/YJHMZiXyM0A) — AI-оркестр вместо колл-центра
+- 👤 [AI-клон себя с RAG + fine-tuning GPT-4](https://youtu.be/7oDXXBYKKps) — теперь нас двое, и один не устаёт
 
 ---
 
