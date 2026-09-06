@@ -24,8 +24,8 @@
 - ⚙️ Строю мульти-агентные AI-системы с RAG, файн-тюнингом и векторными базами — звучит страшно, работает магически
 - 🛒 Автоматизирую e-commerce на Wildberries и Ozon (продавцы перестают ненавидеть понедельники)
 - 💸 Сделал [НеОтдам](https://neotdam.io) — AI-платформу, которая находит деньги, которые маркетплейс «забыл» вернуть продавцу
-- 📣 Участвую в разработке [AIMarketos](https://aimarketos.com) — маркетинговая ОС, которая заменяет команду из 5–7 человек (они не знают)
-- 🎓 Веду [Wildbots Academy](https://supabots.ru) — учу людей, что n8n это не страшно, это просто LEGO для взрослых
+- 📣 Участвую в разработке [ОХВАТ](https://ohvat.top) — маркетинговая ОС, которая заменяет команду из 5–7 человек (они не знают)
+- 🔌 Держу [Hubris](https://hubris.pw) — один OpenAI-совместимый ключ к 400+ моделям: оплата в рублях, VPN не нужен
 - 📹 Снимаю туториалы на [YouTube](https://www.youtube.com/@Aimaginelife) — потому что «просто посмотри видос» работает лучше любой документации
 
 ---
@@ -43,8 +43,8 @@ I build **AI agents that don't get tired**, **n8n workflows that don't complain*
 - ⚙️ Multi-agent AI systems with RAG, fine-tuning and vector DBs — sounds scary, works like magic
 - 🛒 E-commerce automation for Wildberries & Ozon (sellers stop hating Mondays)
 - 💸 Built [НеОтдам](https://neotdam.io) — AI platform that finds money the marketplace conveniently "forgot" to return
-- 📣 Co-developing [AIMarketos](https://aimarketos.com) — a marketing OS replacing a 5–7 person team (they don't know yet)
-- 🎓 Running [Wildbots Academy](https://supabots.ru) — teaching that n8n isn't scary, it's just LEGO for adults
+- 📣 Co-developing [OHVAT](https://ohvat.top) — a marketing OS replacing a 5–7 person team (they don't know yet)
+- 🔌 Running [Hubris](https://hubris.pw) — one OpenAI-compatible key to 400+ models: pay in rubles, no VPN needed
 - 📹 Making tutorials on [YouTube](https://www.youtube.com/@Aimaginelife) — because "just watch the video" beats any documentation
 
 ---
@@ -54,12 +54,11 @@ I build **AI agents that don't get tired**, **n8n workflows that don't complain*
 | Проект / Project | Что делает / What it does |
 |-----------------|--------------------------|
 | [🔴 НеОтдам](https://neotdam.io) | Возвращает деньги с маркетплейсов. AI сам всё находит — ты только радуешься / Recovers marketplace losses. AI finds everything — you just enjoy |
-| [📣 AIMarketos](https://aimarketos.com) | Контент + автопубликация в 16 платформ. Как иметь SMM-отдел, но без SMM-отдела / Content + autopublish to 16 platforms. Like having an SMM team without the SMM team |
+| [📣 ОХВАТ](https://ohvat.top) | Контент + автопубликация в 60+ платформ. Как иметь SMM-отдел, но без SMM-отдела / Content + autopublish to 60+ platforms. Like having an SMM team without the SMM team |
+| [🔌 Hubris](https://hubris.pw) | Один OpenAI-совместимый ключ к 400+ LLM. Оплата в рублях, VPN не нужен / One OpenAI-compatible key to 400+ LLMs. Pay in rubles, no VPN |
 | [👁 View](https://view.wildbots.ru) | Следит за вирусным контентом на YouTube / TikTok / Instagram пока ты занимаешься делами / Watches viral content trends while you do actual work |
 | [🎬 Vortex](https://vortex.wildbots.ru) | AI-режиссёр. Потому что у каждого должен быть личный режиссёр / AI video director. Because everyone deserves one |
-| [⚡ SiteCreo](https://sitecreo.ru) | Лендинг за 5 минут. 25+ стилей, 50+ палитр. Дизайнеры нервно смотрят / Landing in 5 min. Designers nervously watching |
 | [🔍 AuditAI](https://pdf.supabots.ru) | Находит дыры в воронке продаж. Жестоко, но честно / Finds holes in your sales funnel. Brutal but honest |
-| [🎓 Wildbots Academy](https://supabots.ru) | Курсы по AI и n8n. LEGO для серьёзных людей / Courses on AI & n8n. LEGO for serious people |
 | [🏛️ Wildbots Forum](https://forum.wildbots.ru) | Сообщество автоматизаторов. Те, кто понял / Community of people who get it |
 | [🗺️ Ройся](https://roisya.app) | Квест-приложение для прогулок по городу. Да, я умею в оффлайн тоже / Urban quest app. Yes, I can do offline too |
 
